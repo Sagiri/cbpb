@@ -1,0 +1,1 @@
+I've since taken this down due to incompatibilities with other NPC trainer hacks (most notably [DoesntKnowHowToPlay](https://www.pokecommunity.com/member.php?u=300067) 's [Trainers with EVs](https://www.pokecommunity.com/showpost.php?p=7795831&postcount=1)).
